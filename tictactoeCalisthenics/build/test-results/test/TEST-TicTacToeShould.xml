@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TicTacToeShould" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-01-31T09:52:28" hostname="LC02Z34S4L40Y.office" time="0.013">
+  <properties/>
+  <testcase name="detectWinnerWhenThereAreThreeSameMovementInARowHorizontallyInTheThirdColumn" classname="TicTacToeShould" time="0.005"/>
+  <testcase name="detectWinnerWhenThereAreThreeSameMovementInDiagonalRigthToLeftDown" classname="TicTacToeShould" time="0.001"/>
+  <testcase name="detectWinnerWhenThereAreThreeSameMovementInDiagonalLeftToRigthDown" classname="TicTacToeShould" time="0.001"/>
+  <testcase name="detectWinnerWhenThereAreThreeSameMovementInARowHorizontallyInTheFirstRow" classname="TicTacToeShould" time="0.001"/>
+  <testcase name="detectWinnerWhenThereAreThreeSameMovementInARowHorizontallyInTheSecondColumn" classname="TicTacToeShould" time="0.001"/>
+  <testcase name="onlyAllowAlternateMove" classname="TicTacToeShould" time="0.0"/>
+  <testcase name="detectWinnerWhenThereAreThreeSameMovementInARowHorizontallyInTheSecondRow" classname="TicTacToeShould" time="0.0"/>
+  <testcase name="doesNotAllowToPlayOnPlayedPosition" classname="TicTacToeShould" time="0.001"/>
+  <testcase name="detectWinnerWhenThereAreThreeSameMovementInARowHorizontallyInTheThirdRow" classname="TicTacToeShould" time="0.0"/>
+  <testcase name="doesNotAllowStartWithO" classname="TicTacToeShould" time="0.0"/>
+  <testcase name="detectWinnerWhenThereAreThreeSameMovementInARowHorizontallyInTheFirstColumn" classname="TicTacToeShould" time="0.0"/>
+  <testcase name="detectDrawWhenBoardIsFilledWithoutWinner" classname="TicTacToeShould" time="0.001"/>
+  <system-out><![CDATA[FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+FIVE
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
